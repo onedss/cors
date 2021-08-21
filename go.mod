@@ -1,4 +1,4 @@
-module cors
+module github.com/onedss/cors
 
 go 1.14
 
